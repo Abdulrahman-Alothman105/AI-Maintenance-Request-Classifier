@@ -15,10 +15,12 @@ The project includes both a **Web version** and a **Mobile version**.
 ### Tech Stack & Reasoning
 
 * **Next.js** — Used to build the Web application. It provides a modern framework for building web applications and supports API integration without requiring additional external libraries.
-* **React Native / Expo** — Used for the Mobile application, based on previous experience with React Native.
-* **Google Gemini API** — Used to analyze maintenance requests, suggest the appropriate category and priority, and provide AI-powered classification. Gemini was also used during the planning and development process to analyze requirements, suggest suitable tools, and help write project content.
+* **React Native / Expo** — Used to build the Mobile application, based on previous experience with React Native.
 * **Render** — Used to deploy and host the Web application, taking advantage of its available free hosting plan.
-* **Claude** — Used during development to generate most of the application code, followed by manual review, modification, and refinement.
+* **AI Tools — Google Gemini & Claude**
+
+  * **Google Gemini** — Used as the AI service for analyzing maintenance requests and suggesting the appropriate category and priority. It was also used during the planning stage to analyze requirements, create an implementation plan, and suggest suitable tools.
+  * **Claude** — Used during development to generate most of the application code, followed by manual review, modification, and refinement.
 
 ---
 
