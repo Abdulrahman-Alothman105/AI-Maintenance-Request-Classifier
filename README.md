@@ -1,3 +1,7 @@
+# بلاغات الصيانة — AI Maintenance Request Classifier
+
+### Overview
+
 **AI Maintenance Request Classifier** is an application for submitting home-maintenance and craftsman service requests in Arabic.
 
 The user describes their maintenance problem using free text. **Google Gemini** analyzes the request and suggests a **category** and **priority**. The user can review and adjust either value before saving the request.
