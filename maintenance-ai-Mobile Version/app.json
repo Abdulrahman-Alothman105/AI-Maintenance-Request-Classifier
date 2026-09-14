@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "بلاغات الصيانة",
+    "slug": "maintenance-ai-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#EDEFEA",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.maintenanceai.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#EDEFEA"
+      },
+      "package": "com.maintenanceai.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
