@@ -77,3 +77,5 @@ npx expo start
 * Allow users to upload **images and videos** to better describe the maintenance problem.
 
 ---
+### About Project Completion
+> **This project was successfully completed in collaboration with ENGINEERING DIMENSIONS (EDCO).**
