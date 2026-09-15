@@ -10,6 +10,10 @@ Once saved, every maintenance request appears in a list where it can be reviewed
 
 The project includes both a **Web version** and a **Mobile version**.
 
+Additionally, I have deployed the web application so that it can be accessed and tested on any device. You can try the live application here:
+
+**https://ai-ticket-classifier-t9sz.onrender.com/**
+
 ---
 
 ### Tech Stack & Reasoning
